@@ -17,7 +17,7 @@
 - [X] Demo: Please be prepared to demonstrate this process with only your own notes or ArcGIS official documentation for help. https://luna.flemingcollege.ca/arcgis/rest/services/biggerbrains61/CanadaJPowell/MapServer
 https://luna.flemingcollege.ca/arcgis/rest/services/biggerbrains61/CanadaJPowell/MapServer?f=jsapi
 
-- [X] [Adding ArcGIS Server(Luna) map Services to ArcGIS Online](https://luna.flemingcollege.ca/arcgis/rest/login?redirect=https%3A//luna.flemingcollege.ca/arcgis/rest/services/DemoMapExample/MapServer/0) 
+- [X] Adding ArcGIS Server(Luna) map Services to ArcGIS Online https://luna.flemingcollege.ca/arcgis/rest/login?redirect=https%3A//luna.flemingcollege.ca/arcgis/rest/services/DemoMapExample/MapServer/0
 https://fleming.maps.arcgis.com/home/item.html?id=85fdf067b331447b83595c258969ddc1
 
 - [ ] Create: To add the service to a map in ArcGIS Online, you must first make an ArcGIS Online Item to reference the service from the Luna server at Fleming.
