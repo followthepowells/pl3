@@ -7,7 +7,7 @@
     - [ ] [Read:  ArcGIS Server 10.9](https://www.esri.com/arcgis-blog/products/arcgis-enterprise/announcements/removal-of-arcmap-based-runtime-from-arcgis-enterprise/)
 - [ ] [Review: REST API]( https://developers.arcgis.com/rest/services-reference/get-started-with-the-services-directory.htm)
     - [ ] [Complete the following ESRI class Introduction to the ArcGIS for Server REST API](https://www.esri.com/training/catalog/57630436851d31e02a43f16a/)
-    - [ ] #Submit: Esri Transcript
+    - [ ] ##Submit: Esri Transcript
     - [ ] [Review: Output formats that are possible using the REST API](https://developers.arcgis.com/rest/services-reference/output-formats.htm)
 - [ ] [Read: ArcGIS Server 101](https://www.esri.com/about/newsroom/arcuser/arcgis-for-server-101/)
 - [X] [Confirm you can Login to AWS](https://console.aws.amazon.com/console/home?region=us-east-1)
