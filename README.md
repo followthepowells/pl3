@@ -18,7 +18,7 @@
 https://luna.flemingcollege.ca/arcgis/rest/services/biggerbrains61/CanadaJPowell/MapServer?f=jsapi
 
 - [X] Adding ArcGIS Server(Luna) map Services to ArcGIS Online https://luna.flemingcollege.ca/arcgis/rest/login?redirect=https%3A//luna.flemingcollege.ca/arcgis/rest/services/DemoMapExample/MapServer/0
-https://fleming.maps.arcgis.com/home/item.html?id=85fdf067b331447b83595c258969ddc1
+      [My Canada Map in AGOL](https://fleming.maps.arcgis.com/home/item.html?id=85fdf067b331447b83595c258969ddc1)
 
 - [ ] Create: To add the service to a map in ArcGIS Online, you must first make an ArcGIS Online Item to reference the service from the Luna server at Fleming.
 - [ ] [Reference: Review the documentation about using ArcGIS Server services in ArcGIS Online](https://doc.arcgis.com/en/arcgis-online/reference/arcgis-server-services.htm)
