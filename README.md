@@ -12,9 +12,14 @@
 - [ ] [Read: ArcGIS Server 101](https://www.esri.com/about/newsroom/arcuser/arcgis-for-server-101/)
 - [X] [Confirm you can Login to AWS](https://console.aws.amazon.com/console/home?region=us-east-1)
 - [ ] [Publish the Canada Service to the Luna server (During your lab)](https://www.youtube.com/watch?v=nIRlZN9ECwY)
+
 - [X] <b>Submit:</b> Be prepared to detail the best practice of using 6443 only to publish and administer map services and TCP 443 for using the published services. 
 - [X] Demo: Please be prepared to demonstrate this process with only your own notes or ArcGIS official documentation for help. https://luna.flemingcollege.ca/arcgis/rest/services/biggerbrains61/CanadaJPowell/MapServer
-- [X] [Adding ArcGIS Server(Luna) map Services to ArcGIS Online](https://luna.flemingcollege.ca/arcgis/rest/login?redirect=https%3A//luna.flemingcollege.ca/arcgis/rest/services/DemoMapExample/MapServer/0) https://fleming.maps.arcgis.com/home/item.html?id=85fdf067b331447b83595c258969ddc1
+https://luna.flemingcollege.ca/arcgis/rest/services/biggerbrains61/CanadaJPowell/MapServer?f=jsapi
+
+- [X] [Adding ArcGIS Server(Luna) map Services to ArcGIS Online](https://luna.flemingcollege.ca/arcgis/rest/login?redirect=https%3A//luna.flemingcollege.ca/arcgis/rest/services/DemoMapExample/MapServer/0) 
+https://fleming.maps.arcgis.com/home/item.html?id=85fdf067b331447b83595c258969ddc1
+
 - [ ] Create: To add the service to a map in ArcGIS Online, you must first make an ArcGIS Online Item to reference the service from the Luna server at Fleming.
 - [ ] [Reference: Review the documentation about using ArcGIS Server services in ArcGIS Online](https://doc.arcgis.com/en/arcgis-online/reference/arcgis-server-services.htm)
 - [ ] Question: Why did you have to add ADROOT\ to the login information when adding the luna layer reference to ArcGIS Online? Did your map projection change? What is the initial map extent? What properties from your originally published map carry forward? Explore the service from this context in ArcGIS Online and what can be done in the new ArcGIS Online map viewer (do not use the classic version) to enhance your map. Change (override) its cartography to display the best way possible for a map showing Canada and its provinces. Do not hesitate to re-publish the map service in ArcGIS Pro to make improvements.
