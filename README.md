@@ -18,8 +18,8 @@
 https://luna.flemingcollege.ca/arcgis/rest/services/biggerbrains61/CanadaJPowell/MapServer?f=jsapi
 
 - [X] [Adding ArcGIS Server(Luna) map Services to ArcGIS Online](https://luna.flemingcollege.ca/arcgis/rest/login?redirect=https%3A//luna.flemingcollege.ca/arcgis/rest/services/DemoMapExample/MapServer/0)
-- [ ] Create: To add the service to a map in ArcGIS Online, you must first make an ArcGIS Online Item to reference the service from the Luna server at Fleming.
-- [ ] [Reference: Review the documentation about using ArcGIS Server services in ArcGIS Online](https://doc.arcgis.com/en/arcgis-online/reference/arcgis-server-services.htm)
+- [X] Create: To add the service to a map in ArcGIS Online, you must first make an ArcGIS Online Item to reference the service from the Luna server at Fleming.
+- [X] [Reference: Review the documentation about using ArcGIS Server services in ArcGIS Online](https://doc.arcgis.com/en/arcgis-online/reference/arcgis-server-services.htm)
 - [ ] Question: Why did you have to add ADROOT\ to the login information when adding the luna layer reference to ArcGIS Online? Did your map projection change? What is the initial map extent? What properties from your originally published map carry forward? Explore the service from this context in ArcGIS Online and what can be done in the new ArcGIS Online map viewer (do not use the classic version) to enhance your map. Change (override) its cartography to display the best way possible for a map showing Canada and its provinces. Do not hesitate to re-publish the map service in ArcGIS Pro to make improvements.
 - [X] <b>Submit:</b> Your published map service, its AGOL item and Web Map (using the modern one, not the classic version) will be submitted as part of your next practical lab. This practical lab activity is the focus for the required pass to earn the credit in this course.
     - [X] [My Canada Map in AGOL](https://fleming.maps.arcgis.com/home/item.html?id=85fdf067b331447b83595c258969ddc1)
