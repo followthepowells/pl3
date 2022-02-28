@@ -25,8 +25,8 @@
     
     URL bottom left: https://utility.arcgis.com/usrsvcs/servers/0f4680a3e79245d29e74ee00c55c0c12/rest/services/biggerbrains61/CanadaJPowell/MapServer/0
     - [X] [My Canada Web Map in AGOL](https://fleming.maps.arcgis.com/apps/mapviewer/index.html?webmap=deb744e58345401c99628212bb46bb81)
-- [ ] Create: In ArcGIS Pro, create a new map and add the REST endpoint URL for the map service from ArcGIS Online into ArcGIS Pro directly. Using ArcGIS Pro's interface, you can try browsing your "items" in your ArcGIS Online account and add the item that way, or just type the REST URL into ArcGIS Pro. One references directly to Luna, the other goes to ArcGIS Online first then it goes back to Luna.
-- [ ] Explore and <b>Submit:</b> what cartographic options are available to override the map service cartography and save a newly-styled map in the ArcGIS Pro Project to 
+- [X] Create: In ArcGIS Pro, create a new map and add the REST endpoint URL for the map service from ArcGIS Online into ArcGIS Pro directly. Using ArcGIS Pro's interface, you can try browsing your "items" in your ArcGIS Online account and add the item that way, or just type the REST URL into ArcGIS Pro. One references directly to Luna, the other goes to ArcGIS Online first then it goes back to Luna.
+- [X] Explore and <b>Submit:</b> what cartographic options are available to override the map service cartography and save a newly-styled map in the ArcGIS Pro Project to 
 
 Bonus (Optional)
 - [ ] Create an application using your Luna Canada Map Service
