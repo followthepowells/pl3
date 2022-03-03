@@ -21,8 +21,9 @@
       "esri/config",
       "esri/Map",
       "esri/WebMap",
-      "esri/views/SceneView"
-  ], function(esriConfig,Map, WebMap,SceneView) {
+      "esri/views/SceneView",
+      "esri/widgets/Legend"
+  ], function(esriConfig,Map, WebMap,SceneView, Legend) {
 
     esriConfig.apiKey = "AAPKff8b23b0dc1040e3bb330c65d236f928LFn1bDaLCbjD6sRAAUNi4p3KDFJ4W-I5bWm9aIKHdhmNNaGFw8h4Y5ulkzfU2rwj";
 
@@ -49,6 +50,11 @@
         tilt: 5
       }
       });
+      
+      const legend = new Legend ({
+        view: view
+      });
+      view.ui.add(legend, "top-right");
 
     });
   </script>
