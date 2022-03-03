@@ -29,8 +29,8 @@
 - [X] Explore and <b>Submit:</b> what cartographic options are available to override the map service cartography and save a newly-styled map in the ArcGIS Pro Project to 
 
 Bonus (Optional)
-- [ ] Create an application using your Luna Canada Map Service
-- [ ] <b>Submit:</b>: This item will be a significant bonus if completed as part of your next Practical Lab. Be creative and create a "polished" application showing the provinces of Canada. Before doing this, be sure you understand how to publish data to ArcGIS Server clearly as that is the most important item to complete for this checklist. 
+- [X] Create an application using your Luna Canada Map Service
+- [X] <b>Submit:</b>: This item will be a significant bonus if completed as part of your next Practical Lab. Be creative and create a "polished" application showing the provinces of Canada. Before doing this, be sure you understand how to publish data to ArcGIS Server clearly as that is the most important item to complete for this checklist. 
 
 - [ ] Read: Feature Service (FeatureServer) vs Map Service (MapServer)
 - [ ] [Read more](https://enterprise.arcgis.com/en/server/latest/publish-services/windows/what-is-a-feature-service-.htm)
