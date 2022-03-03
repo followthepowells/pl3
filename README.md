@@ -11,7 +11,7 @@
     - [ ] [Review: Output formats that are possible using the REST API](https://developers.arcgis.com/rest/services-reference/output-formats.htm)
 - [ ] [Read: ArcGIS Server 101](https://www.esri.com/about/newsroom/arcuser/arcgis-for-server-101/)
 - [X] [Confirm you can Login to AWS](https://console.aws.amazon.com/console/home?region=us-east-1)
-- [ ] [Publish the Canada Service to the Luna server (During your lab)](https://www.youtube.com/watch?v=nIRlZN9ECwY)
+- [X] [Publish the Canada Service to the Luna server (During your lab)](https://www.youtube.com/watch?v=nIRlZN9ECwY)
 
 - [X] <b>Submit:</b> Be prepared to detail the best practice of using 6443 only to publish and administer map services and TCP 443 for using the published services. 
 - [X] Demo: Please be prepared to demonstrate this process with only your own notes or ArcGIS official documentation for help. https://luna.flemingcollege.ca/arcgis/rest/services/biggerbrains61/CanadaJPowell/MapServer/0
