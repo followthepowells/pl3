@@ -21,7 +21,7 @@
       "esri/config",
       "esri/Map",
       "esri/views/SceneView"
-  ], function(esriConfig,Map, SceneView) {
+  ], function(esriConfig, Map, WebMap, SceneView) {
 
     esriConfig.apiKey = "AAPKff8b23b0dc1040e3bb330c65d236f928LFn1bDaLCbjD6sRAAUNi4p3KDFJ4W-I5bWm9aIKHdhmNNaGFw8h4Y5ulkzfU2rwj";
         
@@ -29,6 +29,12 @@
       basemap: "arcgis-topographic", //Basemap layer service
       ground: "world-elevation", //Elevation service
     });
+
+    const webmap = new WebMap({
+        portalItem: {
+          id: "deb744e58345401c99628212bb46bb81"
+        }
+      });
 
     const view = new SceneView({
       container: "viewDiv",
